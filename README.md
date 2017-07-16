@@ -26,3 +26,36 @@
 7. finalize
 8. overload resolution
 9. methods of expansion
+
+# String and Text Handling (String, StringBuilder)
+1. Characters
+2. Casting, convert, IConvertible
+3. Verbatim string character @
+4. StringComparison
+5. Immutable
+6. String Intering
+7. Methods
+8. String pooling
+9. Constructing StringBuilder(Capacity, MaxCapacity)
+10. StringBuilder Members
+11. Secure Strings
+
+# Formatting and Parsing
+1. interface IFormattable
+2. interface IFormatProvider
+3. Custom Formatter
+4. Parse TryParse
+5. Encodings: Converting
+
+# Exception Handling. Logging. NLog.
+1. the try finally catch block 
+2. SYstem.Exception class
+3. Inner Exception 
+4. Throwing
+
+# Delegates. Lambdas and Events.
+1. CreateDelegate 
+2. MulticastDelegate
+3. Combine
+4. CLR provide implementation in runtime
+5. GetInvacationList
