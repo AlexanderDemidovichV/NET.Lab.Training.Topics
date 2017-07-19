@@ -59,3 +59,18 @@
 3. Combine
 4. CLR provide implementation in runtime
 5. GetInvacationList
+
+# Generics and Collections
+1. Benefits
+2. Semantic substitution
+3. Interface, delegate, method, class, struct
+4. Limitation
+5. Iterator
+
+# LINQ
+1. System.Linq.ParalllEnumerable
+2. IEnumerable
+3. IParallelQuery
+4. methods
+
+
