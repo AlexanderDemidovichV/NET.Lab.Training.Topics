@@ -73,4 +73,21 @@
 3. IParallelQuery
 4. methods
 
+# SOLID
+1. Single responsibility principle
+2. Open closed principle
+3. Liskov substitution principle
+4. Interface segregation principle
+5. Dependency Inversion principle
 
+# Patterns
+1. Singleton
+2. Visitor
+3. Observer 
+4. Factory
+5. Adapter 
+6. Facade 
+7. Decorator
+8. Strategy
+9. Template method
+10. Iterator
